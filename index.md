@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](werwrewe.github.io/blob/main/factory_banner1.jpg)
+![Image](werwrewe.github.io/blob/main/factory_banner1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
